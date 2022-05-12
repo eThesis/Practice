@@ -24,7 +24,7 @@ for i = 2 .. n
  // when we exit the loop this mean Ai => A[j] or we've reached the front of the array, so 
  A[j + 1] = Ai
  
-// running this procedure results in the sorted array A.
+// running this procedure results in the sorted array A, in increasing order.
  
     
   
